@@ -4,8 +4,3 @@ adding from repo
 From Dec
 Line5
 Line5line7git
->>>>>>> 018497c (added from Dev)
-
-From Dec
-Line5
-Line5line7git
