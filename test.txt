@@ -1,2 +1,8 @@
 welcpme to ACSgit status
 adding from repo
+From Stage
+
+Line1
+line2
+line3
+
